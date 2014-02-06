@@ -4,3 +4,7 @@ atlassian-ide-plugin.xml
 externaltools/postgresql-driver-license.txt
 caronasbrasilapp/staticfiles/*
 .idea/
+*.pyc
+
+# sqlite databases
+*.sqlite3
